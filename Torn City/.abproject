@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Torn City",
+  "ProjectGuid": "e2bc60a7-4e17-4ee4-9b46-a1f39a6df893",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TornCity",
+  "DisplayName": "Torn City",
+  "Author": "",
+  "Description": "Torn City",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{8d0c1789-22ef-4e24-b5e0-a1f33951ca22}",
+  "WP8ProductID": "{f25a65d8-9d0d-47e1-87e9-733b7e119a74}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TornCity",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
